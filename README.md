@@ -3,4 +3,8 @@ hi, i'm mainly a blender artist, but i do dabble in code here and there. most re
 
 if you wanna see that list of stuff, look [here](https://github.com/vilijur/poor-translation-projects).
 
-other then that, i'm kinda useless.. oh well, i'll do something eventually.
+other then that, i do research
+
+sometiems
+
+that's neat i guess
