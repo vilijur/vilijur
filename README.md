@@ -1,22 +1,6 @@
 # vilijur
-hihi, i'm mainly a blender artist, but i do dabble in code here and there. most repositories on here are mods for games I planned to poorly translate but it turns out i was too stupid to do. Oops.
+Welcome! I'm vilijur and I do things. I'm very bad at describing what I do which would be really bad if I'm trying to market myself but I am not.
 
-if you wanna see that list of stuff, look [here](https://github.com/vilijur/poor-translation-projects).
+Most of the repositories you'll find here are abandoned projects of mine, usually abandoned because I bit off more than I could chew. Hopefully I can change that soon enough.
 
-other then that, i do whatever i feel like doing that day of the week
-
-most of the time it's nothing
-
-i don't do much
-
-that's cool i guess
-
-oh yeah and i also dabble in like
-
-android stuff
-
-that's always fun
-
-...until its not
-
-ok that's all
+I'm typing this on my phone and it's very annoying.
